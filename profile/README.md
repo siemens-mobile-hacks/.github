@@ -1,5 +1,5 @@
 **For develpoers**
-- SDK for developing ELF's: https://github.com/siemens-mobile-hacks/sdk
+- [SDK](https://github.com/siemens-mobile-hacks/sdk) - for developing ELF's with modern tools.
 
 **Useful software:**
 - [siepatcher](https://github.com/siemens-mobile-hacks/siepatcher) - An incomplete re-implementation of V_Klay for *nix systems.
