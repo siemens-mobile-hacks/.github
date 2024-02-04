@@ -1,4 +1,4 @@
-**For develpoers**
+**For develpoers:**
 - [SDK](https://github.com/siemens-mobile-hacks/sdk) - for developing ELF's with modern tools.
 
 **Useful software:**
