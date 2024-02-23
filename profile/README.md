@@ -3,6 +3,7 @@ Wiki for users: https://siemens-mobile-hacks.github.io (in russian)
 **For develpoers:**
 - [SDK](https://github.com/siemens-mobile-hacks/sdk) - for developing ELF's with modern tools.
 - [ELFLoader3](https://github.com/siemens-mobile-hacks/elfloader3) - actual sources of the ELFLoader 3.0.
+- [ELFLoader3 Linux](https://github.com/siemens-mobile-hacks/elfloader3-linux) - ELFLoader 3.0 + Siemens OS API simulator for Linux (with GDB).
 - [pmb887x-emu](https://github.com/siemens-mobile-hacks/pmb887x-emu) - Siemens hardware emulator (qemu-based).
 - [pmb887x-dev](https://github.com/siemens-mobile-hacks/pmb887x-dev) - Low level code for pmb887x CPUs.
 
