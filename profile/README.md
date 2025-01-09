@@ -12,5 +12,5 @@ Wiki for users: https://siemens-mobile-hacks.github.io (in Russian)
 - [IG11](https://github.com/siemens-mobile-hacks/naticq_server) - A server that proxies the NatICQ protocol to ICQ (Oscar).
 - [BalletMiniServer](https://github.com/siemens-mobile-hacks/ballet-mini-server) - A custom server for BalletMini.elf or Opera Mini 2.x applications.
 
-**Content**
+**Content:**
 - [Themes](https://github.com/siemens-mobile-hacks/UI-Themes/blob/main/README.md) - Themes for changing how the interface of your Siemens phones looks.
