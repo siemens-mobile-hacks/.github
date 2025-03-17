@@ -1,6 +1,6 @@
-Wiki for users: https://github.com/siemens-mobile-hacks/wiki/wiki (also in Russian, please edit this one)
+Wiki for users: https://github.com/siemens-mobile-hacks/wiki/wiki (in Russian, please edit this one)
 
-Wiki for users #2: https://siemens-mobile-hacks.github.io (in Russian)
+Wiki for users #2: https://siemens-mobile-hacks.github.io (also in Russian)
 (The wikis will be merged)
 
 
