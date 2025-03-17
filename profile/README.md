@@ -1,4 +1,8 @@
-Wiki for users: https://siemens-mobile-hacks.github.io (in Russian)
+Wiki for users: https://github.com/siemens-mobile-hacks/wiki/wiki (also in Russian, please edit this one)
+
+Wiki for users #2: https://siemens-mobile-hacks.github.io (in Russian)
+(The wikis will be merged)
+
 
 **For developers:**
 - [SDK](https://github.com/siemens-mobile-hacks/sdk) - Develop ELFs with modern tools.
