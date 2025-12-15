@@ -1,4 +1,4 @@
-Wiki for users: https://siemens-mobile-hacks.github.io (also in Russian, please edit this one)
+Wiki for users: [https://siepatch.dev/en](https://siepatch.dev/en/docs). To edit it, edit make changes in this repository: https://github.com/siemens-mobile-hacks/siemens-mobile-hacks.github.io/tree/main/docs. The Russian version is auto-translated to English, but contributions in English are also welcome.
 
 Wiki for users, to be merged into the one above: https://github.com/siemens-mobile-hacks/wiki/wiki (in Russian)
 
